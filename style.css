@@ -93,6 +93,7 @@ h1 {
   font-variant-caps: small-caps; /* Applica l'effetto maiuscoletto (opzionale) */
   text-align: center; /* Allinea il testo al centro */
   text-shadow: 0px 10px 15px rgba(0, 0, 0, 0.5); /* Ombra decisa e scura */
+  margin-bottom: 5px; /* Riduci il margine sotto il titolo */
 }
 
 h2 {
@@ -101,6 +102,7 @@ h2 {
   font-weight: normal; /* Rende il testo in grassetto */
   text-align: center; /* Allinea il testo al centro */
   text-shadow: 0px 10px 15px rgba(0, 0, 0, 0.5); /* Ombra decisa e scura */
+  margin-top: 0; /* Rimuovi il margine sopra il sottotitolo */
 }
 
 .back {
