@@ -89,3 +89,11 @@ h1 {
   text-align: center; /* Allinea il testo al centro */
   text-shadow: 0px 10px 15px rgba(0, 0, 0, 0.5); /* Ombra decisa e scura */
 }
+
+h2 {
+  font-size: 1.0em; /* Imposta la dimensione del font */
+  color: #d4aefe; /* Imposta il colore del testo */
+  font-weight: normal; /* Rende il testo in grassetto */
+  text-align: center; /* Allinea il testo al centro */
+  text-shadow: 0px 10px 15px rgba(0, 0, 0, 0.5); /* Ombra decisa e scura */
+}
