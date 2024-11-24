@@ -11,6 +11,16 @@ body {
   flex-direction: column; /* Imposta il layout in colonna */
 }
 
+#container {
+  text-align: center;
+  background-color: #1F1F1F;
+  box-shadow: 0 10px 15px rgba(0, 0, 0, 0.2);
+  padding: 25px;
+  width: 90%;
+  max-width: 50%;
+  box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.5); /* Ombra decisa e scura */
+}
+
 #title-container {
   text-align: center;
   background-color: #1F1F1F;
