@@ -97,7 +97,7 @@ h1 {
 }
 
 h2 {
-  font-size: 1.5em; /* Imposta la dimensione del font */
+  font-size: 15px; /* Imposta la dimensione del font */
   color: #d4aefe; /* Imposta il colore del testo */
   font-weight: normal; /* Rende il testo in grassetto */
   text-align: center; /* Allinea il testo al centro */
