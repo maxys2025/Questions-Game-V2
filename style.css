@@ -60,7 +60,7 @@ body {
 
 button {
   padding: 15px 20px;
-  font-size: 0.8em;
+  font-size: 1em;
   color: #121212;
   background-color: #c493fd;
   border: none;
@@ -72,11 +72,11 @@ button {
 
 .category-buttons button {
   background-color: #007bff;
-  color: #fff;
+  color: #121212;
 }
 
 #random-question-btn {
-  background-color: #28a745;
+  background-color: #bb86fc;
   color: #fff;
 }
 
@@ -91,7 +91,7 @@ h1 {
 }
 
 h2 {
-  font-size: 1.0em; /* Imposta la dimensione del font */
+  font-size: 1.5em; /* Imposta la dimensione del font */
   color: #d4aefe; /* Imposta il colore del testo */
   font-weight: normal; /* Rende il testo in grassetto */
   text-align: center; /* Allinea il testo al centro */
