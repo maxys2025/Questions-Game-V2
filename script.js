@@ -42,10 +42,10 @@ function displayQuestion(questionObj) {
 
 // Event listeners per i pulsanti
 document.getElementById('random-question-btn').addEventListener('click', displayRandomQuestion);
-document.getElementById('category-past').addEventListener('click', () => displayCategoryQuestion('Qual è'));
-document.getElementById('category-dreams').addEventListener('click', () => displayCategoryQuestion('Hai mai'));
-document.getElementById('category-values').addEventListener('click', () => displayCategoryQuestion('Ultima volta'));
-document.getElementById('category-lifestyle').addEventListener('click', () => displayCategoryQuestion('Sessualità'));
+document.getElementById('category-past').addEventListener('click', () => displayCategoryQuestion('Passato e Ricordi '));
+document.getElementById('category-dreams').addEventListener('click', () => displayCategoryQuestion('Sogni e Obiettivi'));
+document.getElementById('category-values').addEventListener('click', () => displayCategoryQuestion('Valori e credenze'));
+document.getElementById('category-lifestyle').addEventListener('click', () => displayCategoryQuestion('Stili di Vita e Preferenze'));
 document.getElementById('category-intimacy').addEventListener('click', () => displayCategoryQuestion('Sesso e Intimità '));
 
 // Carica le domande all'avvio del sito
